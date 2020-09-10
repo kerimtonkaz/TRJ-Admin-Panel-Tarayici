@@ -1,0 +1,13 @@
+C:\Users\cimic\Documents\Visual Studio 2017\Projects\Red Squirrel\TurkHacks\TRJ - Admin Panel Tarayıcı\TRJ - Admin Panel Tarayıcı\bin\Debug\TRJ - Admin Panel Tarayıcı.exe
+C:\Users\cimic\Documents\Visual Studio 2017\Projects\Red Squirrel\TurkHacks\TRJ - Admin Panel Tarayıcı\TRJ - Admin Panel Tarayıcı\bin\Debug\TRJ - Admin Panel Tarayıcı.pdb
+C:\Users\cimic\Documents\Visual Studio 2017\Projects\Red Squirrel\TurkHacks\TRJ - Admin Panel Tarayıcı\TRJ - Admin Panel Tarayıcı\bin\Debug\TRJ - Admin Panel Tarayıcı.xml
+C:\Users\cimic\Documents\Visual Studio 2017\Projects\Red Squirrel\TurkHacks\TRJ - Admin Panel Tarayıcı\TRJ - Admin Panel Tarayıcı\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\cimic\Documents\Visual Studio 2017\Projects\Red Squirrel\TurkHacks\TRJ - Admin Panel Tarayıcı\TRJ - Admin Panel Tarayıcı\obj\Debug\TRJ___Admin_Panel_Tarayıcı.Form1.resources
+C:\Users\cimic\Documents\Visual Studio 2017\Projects\Red Squirrel\TurkHacks\TRJ - Admin Panel Tarayıcı\TRJ - Admin Panel Tarayıcı\obj\Debug\TRJ___Admin_Panel_Tarayıcı.Resources.resources
+C:\Users\cimic\Documents\Visual Studio 2017\Projects\Red Squirrel\TurkHacks\TRJ - Admin Panel Tarayıcı\TRJ - Admin Panel Tarayıcı\obj\Debug\TRJ - Admin Panel Tarayıcı.vbproj.GenerateResource.Cache
+C:\Users\cimic\Documents\Visual Studio 2017\Projects\Red Squirrel\TurkHacks\TRJ - Admin Panel Tarayıcı\TRJ - Admin Panel Tarayıcı\obj\Debug\TRJ - Admin Panel Tarayıcı.vbproj.CoreCompileInputs.cache
+C:\Users\cimic\Documents\Visual Studio 2017\Projects\Red Squirrel\TurkHacks\TRJ - Admin Panel Tarayıcı\TRJ - Admin Panel Tarayıcı\obj\Debug\TRJ - Admin Panel Tarayıcı.exe
+C:\Users\cimic\Documents\Visual Studio 2017\Projects\Red Squirrel\TurkHacks\TRJ - Admin Panel Tarayıcı\TRJ - Admin Panel Tarayıcı\obj\Debug\TRJ - Admin Panel Tarayıcı.xml
+C:\Users\cimic\Documents\Visual Studio 2017\Projects\Red Squirrel\TurkHacks\TRJ - Admin Panel Tarayıcı\TRJ - Admin Panel Tarayıcı\obj\Debug\TRJ - Admin Panel Tarayıcı.pdb
+C:\Users\cimic\Documents\Visual Studio 2017\Projects\Red Squirrel\TurkHacks\TRJ - Admin Panel Tarayıcı\TRJ - Admin Panel Tarayıcı\bin\Debug\TRJ - Admin Panel Tarayıcı.exe.config
+C:\Users\cimic\Documents\Visual Studio 2017\Projects\Red Squirrel\TurkHacks\TRJ - Admin Panel Tarayıcı\TRJ - Admin Panel Tarayıcı\obj\Debug\TRJ - Admin Panel Tarayıcı.vbprojResolveAssemblyReference.cache
