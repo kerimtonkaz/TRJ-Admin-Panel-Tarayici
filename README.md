@@ -1,5 +1,5 @@
 # TRJ - Admin Panel Tarayıcı (2017)
-![TRJ - Admin Panel Tarayıcı](https://i.hizliresim.com/o61jab.png)
+![TRJ - Admin Panel Tarayıcı](http://git.piednight.com/img/trj.png)
 # Özellikleri
   - Robots.txt içinde Admin Panel Kontrolü
   - Panel Ekleme Özelliği
