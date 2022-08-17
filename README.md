@@ -7,4 +7,4 @@
   - Bulunan Paneli Browserde Açma Özelliği
 
 ### Turkhacks Konusu
-https://www.turkhacks.com/konu-trj-admin-panel-tarayici-turkhacks.html
+https://www.turkhacks.com/konu/trj-admin-panel-tarayici-turkhacks.4375/
